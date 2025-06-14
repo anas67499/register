@@ -1,7 +1,7 @@
 {
     "description": "Personal website and email forwarding ",
-    "domain": "is-local.org",
-    "subdomain": "echo",
+    "domain": ".org",
+    "subdomain": "echoapp",
     "owner": {
         "repo": "https://github.com/yener5855/register",
         "email": "yasinyener79@gmail.com"
